@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+Day 1 -  Link to work [Socket.io Chat](https://github.com/gelarians/Socket.io-Chat)
+
 ## Contents
 
 * [Rules](rules.md)
