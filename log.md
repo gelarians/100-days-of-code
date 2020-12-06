@@ -2,9 +2,9 @@
 
 ### Day 3: December 14, 2020
 
-**Today's Progress**: create a Django/rest api to save the incomming messages from the chatapp. Messages can now be deleted from all clients.
+**Today's Progress**: create a Django/rest api to save the incomming messages from the chatapp. Messages can now be deleted from all clients. export the emoji function.
 
-**Thoughts:** 2 languages and 2 framworks in on one day. :D im happy to that i have finished this.
+**Thoughts:** 2 languages and 2 framworks on one day. :D im happy to finished this.
 
 
 **Link to Chat:** [Socket.io Chat commit#3](https://github.com/gelarians/Socket.io-Chat/commit/9e2aea75e6a57efed8684e4d5694d8d12b08ba24)
