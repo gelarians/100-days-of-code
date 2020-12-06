@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 3: December 14, 2020
+
+**Today's Progress**: create a Django/rest api to save the incomming messages from the chatapp. Messages can now be deleted from all clients.
+
+**Thoughts:** 2 languages and 2 framworks in on one day. :D im happy to that i have finished this.
+
+
+**Link to Chat:** [Socket.io Chat commit#3](https://github.com/gelarians/Socket.io-Chat/commit/9e2aea75e6a57efed8684e4d5694d8d12b08ba24)
+**Link to Api:** [Django/REST API](https://bit.ly/3qxR4DA)
+
+
+
 ### Day 2: December 13, 2020
 
 **Today's Progress**: Add emojis to the chat. server checks if a emoji keyword in the input field and change it to the right png. Every client can now change the username. add some style that die emoji and the text are in center.
