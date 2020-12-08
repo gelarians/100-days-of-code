@@ -1,4 +1,20 @@
 # 100 Days Of Code - Log
+
+### Day 5: December 8, 2020
+
+**Today's Progress**: Starting a new project : Calendar App with vue js.
+Learning about:
+- state management
+- probs
+- components
+- computed & methods 
+
+
+**Thoughts:** Still make some progress but i cant finished it. Data now automatedly render into the template. todos: add new todos to the Calendar on the right day. ability to delete todo, ability to change todo.
+
+
+**Link to work:** [VueJS Calendar](https://github.com/gelarians/Calendar-App-VueJS/commit/529bf28770e8cdea57972b331307bcbd261bfd1c)
+
 ### Day 4: December 7, 2020
 
 **Today's Progress**: Start learning VueJS. make my first project with it, a Blizzard game voter ^^
@@ -8,7 +24,7 @@ I had a lot of fun with it and learn alot about v-bind, v-for and the general Vu
 **Thoughts:** Vue JS is better than i thought. the component part is rly cool.
 
 
-**Link to Chat:** [VueJS Voter Page](https://github.com/gelarians/Voter-VueJS)
+**Link to Work:** [VueJS Voter Page](https://github.com/gelarians/Voter-VueJS)
 
 ### Day 3: December 6, 2020
 
