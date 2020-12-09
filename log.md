@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 6: December 9, 2020
+
+**Today's Progress**: finish Project. Add change entry | add save method | add delete all entrys
+i understand now how to talk from the component to the sotore and how to write the right function to have a clean code. First store funcion then the component function and finaly use it on the template
+
+
+**Thoughts:** still make some progress. next days i must learn vuex for a better state management. it is hard to debug without it. i must make more commits on my git repo. 1 a day is not enought
+
+
+**Link to work:** [VueJS Calendar commit](https://github.com/gelarians/Calendar-App-VueJS/commit/f88ac1c7910147cd27bd69cdea627d00417e317f)
+
+
 ### Day 5: December 8, 2020
 
 **Today's Progress**: Starting a new project : Calendar App with vue js.
