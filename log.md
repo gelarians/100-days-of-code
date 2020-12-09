@@ -3,7 +3,7 @@
 ### Day 6: December 9, 2020
 
 **Today's Progress**: finish Project. Add change entry | add save method | add delete all entrys
-i understand now how to talk from the component to the sotore and how to write the right function to have a clean code. First store funcion then the component function and finaly use it on the template
+i understand now how to talk from the component to the store and how to write the right function to have a clean code. First store funcion then the component function and finaly use it on the template
 
 
 **Thoughts:** still make some progress. next days i must learn vuex for a better state management. it is hard to debug without it. i must make more commits on my git repo. 1 a day is not enought
