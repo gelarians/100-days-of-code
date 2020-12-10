@@ -1,4 +1,20 @@
 # 100 Days Of Code - Log
+### Day 7: December 10, 2020
+
+**Today's Progress**: Setup Vuex. and learn about EventBus. every store have state, getters, mutations and actions. getters talk with the state. mutaition can edit the State. and the action talk to the mutations.
+if i wanna fetch some data from the api, i must make this in the actions. 
+compontens ---> actions = this.$store.dispatch("function", payload)
+actions ----> mutaitions =  context.commit("FUNCTION", payload)
+getters = this.$store.getters.function
+
+
+
+**Thoughts:** so many new thinks to learn. i am a little bit confused about the syntax. 
+I have to practice this again tomorrow with the vuecli,
+
+
+**Link to work:** [Vuex - Test](https://github.com/gelarians/Vuex-Tests)
+
 
 ### Day 6: December 9, 2020
 
