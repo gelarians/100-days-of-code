@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+
+### Day 8: December 11, 2020
+
+**Today's Progress**: start a new Projekt with the vue/cli and Vuex.
+i'm learning how to integrate vuex into a large project. how the folder structure is best and how I communicate with the store and the api.
+server is with express! 
+
+**Thoughts:** i am getting more and more experience with vuex "YEAH"
+
+
+**Link to work:** [Vuex-Shop](https://github.com/gelarians/Vuex-Shop)
+
 ### Day 7: December 10, 2020
 
 **Today's Progress**: Setup Vuex. and learn about EventBus. every store have state, getters, mutations and actions. getters talk with the state. mutaition can edit the State. and the action talk to the mutations.
