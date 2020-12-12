@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: December 12, 2020
+
+**Today's Progress**: add Vue Router to the Shop Project.
+created routes for productlist, productitem, shoppingcart and login. Add token auth to the server and the frondend.
+i use the local storage to save the token on the client. 
+
+**Thoughts:** it was a lot of fun to experiment with the router. I should understand the basic mechanics. I don't know yet whether I will use vue router in future projects, but we'll see
+
+
+**Link to work:** [Vuex-Shop with router](https://github.com/gelarians/Vuex-Shop/tree/router)
+
 ### Day 8: December 11, 2020
 
 **Today's Progress**: start a new Projekt with the vue/cli and Vuex.
