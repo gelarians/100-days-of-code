@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 10: December 13, 2020
+
+**Today's Progress**: Learning more Vue:
+- better folder structure
+    - layouts
+    - pages
+    - components
+- router modules
+- vuex modules
+- register new plugins in vue (axios) this.$axios (cool shit xD)
+- Lazy Loading components
+- watcher
+- slots
+
+**Thoughts:** practice, practice, practice
+
+
+**Link to work:** [Vue Scalability](https://github.com/gelarians/Vue-scalability)
+
 ### Day 9: December 12, 2020
 
 **Today's Progress**: add Vue Router to the Shop Project.
