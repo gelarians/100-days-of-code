@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 11: December 14, 2020
+
+**Today's Progress**:my first steps with MySQL.
+- install the mysql server and the workbench
+- write my first query YEAH
+- add database and drop them 
+- add tables and values to the database
+
+- null in table
+- storage-engine
+- sql modi 
+
+**Thoughts:** Udemy courses are the best 4 me.
+
+
+**Link to work:** [MySQL First steps](https://github.com/gelarians/MySQL/tree/main/01-First%20Steps)
+
 ### Day 10: December 13, 2020
 
 **Today's Progress**: Learning more Vue:
