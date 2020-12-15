@@ -1,4 +1,21 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log### Day 11: December 15, 2020
+
+**Today's Progress**: more MySQL:
+    - delete data from tables
+    - primary key 
+    - auto_increment with primary key
+    - group sequenz
+    - columns and data selection
+
+    - import and export database in Workbench / cli
+
+
+**Thoughts:** must switch to the masterclass sql from udemy to learn MySQL and Postgres
+
+
+**Link to work:** [MySQL First steps](https://github.com/gelarians/MySQL/tree/main/01-First%20Steps)
+
+
 
 ### Day 11: December 14, 2020
 
