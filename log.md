@@ -1,4 +1,18 @@
-# 100 Days Of Code - Log### Day 11: December 15, 2020
+# 100 Days Of Code - Log
+
+### Day 12: December 16, 2020
+
+**Today's Progress**: more MySQL:
+    - Comparison operators and links
+    - =, <>, <, >, =>, <=
+    - and, or, xor, like, between
+
+    - install portgress and pgAdmin4 
+    to see the difference
+
+
+**Link to work:** [MySQL](https://github.com/gelarians/MySQL/tree/main/02-Vergleichsoperatoren%20und%20Verkn%C3%BCpfungen)
+
 
 **Today's Progress**: more MySQL:
     - delete data from tables
