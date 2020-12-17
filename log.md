@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 13: December 17, 2020
+
+**Today's Progress**: more sql:
+    - mysql data types
+    - Aggregate Functions
+
+
+
+**Link to work:** [MySQL](https://github.com/gelarians/MySQL/tree/main/02-Vergleichsoperatoren%20und%20Verkn%C3%BCpfungen)
+
 ### Day 12: December 16, 2020
 
 **Today's Progress**: more MySQL:
