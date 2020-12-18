@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 14: December 18, 2020
+
+**Today's Progress**: more mysql:
+    - arithmetic ( +, -, *, /, DIV, MOD, %)
+    - foreign key
+        - inner join
+        - outer join (left/right)
+        - alias (select vorname, p.id as persid, w.id as ortid, w.ort)
+        - self join 
+
+
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/ecc20c73e69544dd62997ed72e873407e4ab456e)
+
+
 ### Day 13: December 17, 2020
 
 **Today's Progress**: more sql:
