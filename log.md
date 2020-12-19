@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 15: December 19, 2020
+
+**Today's Progress**: more mysql:
+  -  Relationships
+        - 1:1 Relationship
+        - 1:n Relationship
+        - M:N Relationship
+            - foreign key
+            - update/delete (with cascade)
+
+
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/1a0e3d01c14c2b6347693358825e537c0f7e48b9)
+
 ### Day 14: December 18, 2020
 
 **Today's Progress**: more mysql:
