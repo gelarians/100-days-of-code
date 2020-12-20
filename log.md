@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: December 20, 2020
+
+**Today's Progress**: more mysql:
+  the unique parameter
+  do my first steps with the mysql eer diagram.
+
+
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/3808de01d35f60ca730fdba507c82a7687e618aa)
+
+
 ### Day 15: December 19, 2020
 
 **Today's Progress**: more mysql:
