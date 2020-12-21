@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 17: December 21, 2020
+
+**Today's Progress**: more mysql:
+  start the course projekt.
+  learn more about the alter function
+
+
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/08d984ef95c5ed633fabf2cc727a6c705b722e3c)
+
 ### Day 16: December 20, 2020
 
 **Today's Progress**: more mysql:
