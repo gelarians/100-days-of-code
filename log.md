@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 18: December 22, 2020
+
+**Today's Progress**: more mysql:
+    Advanced SELECT statements on my libary project.
+
+**Thoughts:** practice the syntax of the select statement.
+I'm slowly getting a feeling for it.
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/3ce0836f8a631cf6a493e009c98a92f5bbce87d0)
+
 ### Day 17: December 21, 2020
 
 **Today's Progress**: more mysql:
