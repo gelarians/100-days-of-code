@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 19: December 25, 2020
+
+**Today's Progress**: more mysql:
+    - inline views
+        - Single Row Subqueries
+        - Mulitliple Row Subqueries
+        - IN and ANY
+        - ALL , EXISTS
+        - UNION
+
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/f0f26abf1956e1ff612644d33c6cd4cb14bb4029)
+
 ### Day 18: December 22, 2020
 
 **Today's Progress**: more mysql:
