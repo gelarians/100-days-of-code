@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 20: December 26, 2020
+
+**Today's Progress**: more mysql:
+   - Views
+    - how to create a view
+    - how to delete a view
+    - Input validation with views
+   
+   - User administration
+    - create 
+    - drop
+    - alter 
+    - grant 
+    - revoke
+    - rename  
+    - set password
+   
+   - User administration in views
+
+**Thoughts:** very interesting things that i learned today. user administration is an important topic.
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/2de136237d507c7a4c28297611d2b48e3db48498)
+
 ### Day 19: December 25, 2020
 
 **Today's Progress**: more mysql:
@@ -10,6 +33,7 @@
         - ALL , EXISTS
         - UNION
 
+**Thoughts:** 
 
 **Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/f0f26abf1956e1ff612644d33c6cd4cb14bb4029)
 
