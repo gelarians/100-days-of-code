@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 22: December 28, 2020
+
+**Today's Progress**: Start with basic styling from my portfolio website. setting up jira-server
+
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/2de136237d507c7a4c28297611d2b48e3db48498)
+
 ### Day 21: December 27, 2020
 
 **Today's Progress**: start my portfolio website with django.
