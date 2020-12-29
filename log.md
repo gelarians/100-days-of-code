@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 23: December 29, 2020
+
+**Today's Progress**: more mysql,
+    -lock and transaktion 
+    - how to lock/unlock tables
+    - ACID = Atomicity Consistency Isolation Durability
+    - autocommit
+
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/ffc3d0e5f6a661f455e413e255c68765a6ab67cb)
+
+
 ### Day 22: December 28, 2020
 
 **Today's Progress**: Start with basic styling from my portfolio website. setting up jira-server
