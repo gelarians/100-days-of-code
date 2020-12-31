@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 25: December 31, 2020
+
+**Today's Progress**: more mysql,
+   - functions
+   - concat()
+   - upper()
+   - left()/right()
+   - date and datime
+   - @@lc_time_names
+   - interval 2 week
+
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/94ee1d61785fce6ea3c83939a17ead8f6f28dc68)
+
+### Day 24: December 30, 2020
+
+**Today's Progress**: more mysql,
+   - isolation lvl
+   - transactions
+   - select @@session.transaction_isolation
+   - locj in share mode
+
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/94ee1d61785fce6ea3c83939a17ead8f6f28dc68)
+
 ### Day 23: December 29, 2020
 
 **Today's Progress**: more mysql,
