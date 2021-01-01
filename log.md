@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 26: December 31, 2020
+
+**Today's Progress**: more mysql,
+i learned how to calculate the age from today's date and the date of birth.
+start with stored procedures and the in / out parameter.
+
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/09dff0c80c8ebd452fac532a1fbcca978dd670b5)
+
 ### Day 25: December 31, 2020
 
 **Today's Progress**: more mysql,
@@ -20,7 +29,7 @@
    - isolation lvl
    - transactions
    - select @@session.transaction_isolation
-   - locj in share mode
+   - lock in share mode
 
 
 **Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/94ee1d61785fce6ea3c83939a17ead8f6f28dc68)
