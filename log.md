@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 26: December 31, 2020
+### Day 27: Januar 2, 2021
+
+**Today's Progress**: more mysql,
+inout parameter and solve some problems with banking.
+
+
+**Link to work:** [MySQL commit of the day](https://github.com/gelarians/MySQL/commit/87f88087330738832249464ffb2a01783b12ba54)
+
+### Day 26: Januar 1, 2021
 
 **Today's Progress**: more mysql,
 i learned how to calculate the age from today's date and the date of birth.
