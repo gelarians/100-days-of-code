@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 28: Januar 3, 2021
+
+**Today's Progress**: working on portfolio website.
+setting up the server
+
+
+**Link to work:** [Website]()
+
 ### Day 27: Januar 2, 2021
 
 **Today's Progress**: more mysql,
