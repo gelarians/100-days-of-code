@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 29: Januar 6, 2021
+
+**Today's Progress**: more mysql (stored procedures),
+    - select... for update
+    - handler
+    - loops (while, repeat-untill-loop)
+    - rand function
+    - cursor syntax
+    - case syntay
+
+
+**Link to work:** [MYSQL](https://github.com/gelarians/MySQL/commit/2cec022004322c056f8a2142b9fdfa3a0f7d3a11)
+
 ### Day 28: Januar 3, 2021
 
 **Today's Progress**: working on portfolio website.
