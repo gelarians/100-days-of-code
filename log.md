@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 30: Januar 7, 2021
+
+**Today's Progress**: more mysql ,
+   - stored functions
+   - trigger syntax
+
+
+**Link to work:** [MYSQL](https://github.com/gelarians/MySQL/commit/b9422b3c27d1bbd255dd967e4710f019936609b8)
+
 ### Day 29: Januar 6, 2021
 
 **Today's Progress**: more mysql (stored procedures),
