@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 31: Januar 8, 2021
+
+**Today's Progress**: more mysql ,
+   Hierarchical data structures and Nested sets
+
+**Thoughts:** very interesting things that i learned today.
+
+**Link to work:** [MYSQL](https://github.com/gelarians/MySQL/commit/b9422b3c27d1bbd255dd967e4710f019936609b8)
+
 ### Day 30: Januar 7, 2021
 
 **Today's Progress**: more mysql ,
