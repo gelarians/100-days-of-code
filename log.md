@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 32: Januar 9, 2021
+
+**Today's Progress**: more mysql ,
+   Gozintograph, Article and
+Direct demand. json syntax in mysql
+
+**Thoughts:** i love to work with json <3
+
+**Link to work:** [MYSQL](https://github.com/gelarians/MySQL/commit/07f084b7488176a220fe92ca51fa868201194fe8)
+
 ### Day 31: Januar 8, 2021
 
 **Today's Progress**: more mysql ,
