@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 32: Januar 9, 2021
+### Day 33: Januar 11, 2021
 
 **Today's Progress**: more mysql ,
 Common Table expressions
