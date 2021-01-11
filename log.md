@@ -8,7 +8,7 @@ window functions
 
 **Thoughts:** finished the course on udemy
 
-**Link to work:** [MYSQL]()
+**Link to work:** [MYSQL](https://github.com/gelarians/MySQL)
 
 ### Day 32: Januar 9, 2021
 
