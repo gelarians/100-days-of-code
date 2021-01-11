@@ -3,6 +3,16 @@
 ### Day 32: Januar 9, 2021
 
 **Today's Progress**: more mysql ,
+Common Table expressions
+window functions
+
+**Thoughts:** finished the course on udemy
+
+**Link to work:** [MYSQL]()
+
+### Day 32: Januar 9, 2021
+
+**Today's Progress**: more mysql ,
    Gozintograph, Article and
 Direct demand. json syntax in mysql
 
