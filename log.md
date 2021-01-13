@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 34: Januar 13, 2021
+
+**Today's Progress**: start deep learning course on udemy.
+build my first neuron.
+first steps with keras.
+
+
+**Link to work:** [LINK](https://github.com/gelarians/deep-learning)
+
 ### Day 33: Januar 11, 2021
 
 **Today's Progress**: more mysql ,
