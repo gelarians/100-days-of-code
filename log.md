@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 36: Januar 16, 2021
+
+**Today's Progress**: my first neural network.
+- train model
+- make my first predict
+- determine accuracy
+- validate with test data
+
+
+**Link to work:** [My first neural network](https://github.com/gelarians/deep-learning/tree/main/250%20-%20Ein%20erstes%20neuronales%20Netz)
+
+### Day 35: Januar 14, 2021
+
+**Today's Progress**: 
+play with Linear regression
+
 ### Day 34: Januar 13, 2021
 
 **Today's Progress**: start deep learning course on udemy.
