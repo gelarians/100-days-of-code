@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 37: Januar 17, 2021
+
+**Today's Progress**: working on my portfolio page
+- fix problem with my django one to many relationship
+
+
 ### Day 36: Januar 16, 2021
 
 **Today's Progress**: my first neural network.
