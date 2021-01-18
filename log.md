@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 38: Januar 18, 2021
+
+**Today's Progress**: working on my portfolio page
+
+
 ### Day 37: Januar 17, 2021
 
 **Today's Progress**: working on my portfolio page
