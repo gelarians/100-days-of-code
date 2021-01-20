@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 39: Januar 20, 2021
+
+**Today's Progress**: neural network with more outputs
+ - confusion matrix
+ - optimizer adam, sgd etc..
+ - activation function softmax
+
+ **Link to work:** [Neural Network](https://github.com/gelarians/deep-learning/tree/main/275%20-%20Ein%20neuronales%20Netz%20mit%20mehreren%20Ausgaengen)
+
 ### Day 38: Januar 18, 2021
 
 **Today's Progress**: working on my portfolio page
