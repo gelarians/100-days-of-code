@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 40: Januar 21, 2021
+
+**Today's Progress**: 
+Convolutional Neural Network
+    - max-pooling
+    - dropout
+ **Link to work:** [CNN]()
+
 
 ### Day 39: Januar 20, 2021
 
