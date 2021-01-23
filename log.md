@@ -1,4 +1,14 @@
 # 100 Days Of Code - Log
+### Day 41: Januar 22, 2021
+
+**Today's Progress**: 
+    - playing around with cifar dataset
+    - setup tensorflow with gpu (hard work ^^)
+       - cuda toolkit
+       - cuDNN
+
+ **Link to work:** [CNN]()
+
 ### Day 40: Januar 21, 2021
 
 **Today's Progress**: 
