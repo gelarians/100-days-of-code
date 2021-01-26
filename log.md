@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+
+### Day 42-43: Januar 25-26, 2021
+
+**Today's Progress**: 
+    build a image recognition for cars.
+    train the model
+    find the car in the picture and draw a line .
+
+    fix some problems with cuDNN and my gpu
+ **Link to work:** [link]()
+
 ### Day 41: Januar 22, 2021
 
 **Today's Progress**: 
@@ -7,7 +18,7 @@
        - cuda toolkit
        - cuDNN
 
- **Link to work:** [CNN]()
+ **Link to work:** [link]()
 
 ### Day 40: Januar 21, 2021
 
