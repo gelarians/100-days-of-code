@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 44: Januar 27, 2021
+
+**Today's Progress**: 
+    Transfer Learning
+     - using existing model
+     - VGG16, VGG19, InceptionV3
+
+ **Link to work:** [link](https://github.com/gelarians/deep-learning/tree/main/350%20-%20Bilderkennung)
+
 ### Day 42-43: Januar 25-26, 2021
 
 **Today's Progress**: 
