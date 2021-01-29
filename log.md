@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 45: Januar 29, 2021
+**Today's Progress**: 
+Starting a new project. I am writing a web crawler in python and selenium. i need some data for my neural network.
+
+No link it is privat 
+
 ### Day 44: Januar 27, 2021
 
 **Today's Progress**: 
     Transfer Learning
-     - using existing model
+     - using existing models
      - VGG16, VGG19, InceptionV3
 
  **Link to work:** [link](https://github.com/gelarians/deep-learning/tree/main/350%20-%20Bilderkennung)
