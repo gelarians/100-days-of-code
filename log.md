@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 46: Januar 30, 2021
+
+**Today's Progress**: 
+    Transfer Learning
+        train the VGG16 model with my own Layers, 
+        to predict whether there is a dog or a cat on my picture.
+        Hey our Chihuahua is a dog! surprise !!!
+
+
+        Still crawling data for my personal neural network project.
+
+ **Link to work:** [Cats & Docs](https://github.com/gelarians/deep-learning/tree/main/360%20-%20Projekt%20Hund%20Katze)
+
 ### Day 45: Januar 29, 2021
 **Today's Progress**: 
 Starting a new project. I am writing a web crawler in python and selenium. i need some data for my neural network.
